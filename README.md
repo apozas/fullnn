@@ -8,13 +8,11 @@ This is a repository containing the computational appendix of the article "*Full
 All code is written in Python.
 
 Libraries required:
-- [mosek](https://github.com/apozas/ebm-torch) for solving the linear programming problems
-- [numpy](https://docs.python.org/3/library/gc.html) for numerical manipulations
-- [picos](https://docs.python.org/2/library/itertools.html) for setting up the linear programming problems
-- [qutip](https://docs.python.org/3/library/math.html) and [numpy](http://www.numpy.org/) for quantum mechanical operations
-- [sympy](https://matplotlib.org/) for symbolic manipulations
-
-Citing:
+- [mosek](https://www.mosek.com/) for solving the linear programming problems
+- [numpy](https://numpy.org/) for numerical manipulations
+- [picos](https://picos-api.gitlab.io/picos/) for setting up the linear programming problems
+- [qutip](http://qutip.org/) for quantum mechanical operations
+- [sympy](https://www.sympy.org/) for symbolic manipulations
 
 If you would like to cite this work, please use the following format:
 
@@ -22,10 +20,10 @@ A. Pozas-Kerstjens, N. Gisin, and A. Tavakoli, _Full network nonlocality_, arXiv
 
 ```
 @misc{fullnn,
-	author = {Pozas-Kerstjens, Alejandro and Gisin, Nicolas and Tavakoli, Armin},
-	title = {{Full network nonlocality}},
-	eprint = {2105.xxxxx},
-	archivePrefix={arXiv}
+author = {Pozas-Kerstjens, Alejandro and Gisin, Nicolas and Tavakoli, Armin},
+title = {{Full network nonlocality}},
+eprint = {2105.xxxxx},
+archivePrefix={arXiv}
 }
 ```
 

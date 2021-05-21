@@ -1,6 +1,6 @@
 <!-- [![DOI](https://www.zenodo.org/badge/xxxxxxxxx.svg)](https://www.zenodo.org/badge/latestdoi/xxxxxxxxx) -->
 
-## Computational appendix of *[Full network nonlocality](https://www.arxiv.org/abs/2105.xxxxx)*
+## Computational appendix of *[Full network nonlocality](https://www.arxiv.org/abs/2105.09325)*
 #### Alejandro Pozas-Kerstjens, Nicolas Gisin and Armin Tavakoli
 
 This is a repository containing the computational appendix of the article "*Full network nonlocality*. Alejandro Pozas-Kerstjens, Nicolas Gisin, and Armin Tavakoli. [arXiv:2105.09325](https://www.arxiv.org/abs/2105.09325)." It provides a detailed explanation of how to write the linear programming problems associated to hybrid classical-nonsignaling inflations, and the necessary codes for obtaining the full network Bell inequalities depicted in the manuscript.

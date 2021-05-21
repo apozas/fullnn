@@ -1,4 +1,4 @@
-<!-- [![DOI](https://www.zenodo.org/badge/xxxxxxxxx.svg)](https://www.zenodo.org/badge/latestdoi/xxxxxxxxx) -->
+[![DOI](https://www.zenodo.org/badge/367431180.svg)](https://www.zenodo.org/badge/latestdoi/367431180)
 
 ## Computational appendix of *[Full network nonlocality](https://www.arxiv.org/abs/2105.09325)*
 #### Alejandro Pozas-Kerstjens, Nicolas Gisin and Armin Tavakoli

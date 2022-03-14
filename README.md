@@ -10,7 +10,7 @@ All code is written in Python.
 Libraries required:
 - [mosek](https://www.mosek.com/) for solving the linear programming problems
 - [numpy](https://numpy.org/) for numerical manipulations
-- [picos](https://picos-api.gitlab.io/picos/) for setting up the linear programming problems
+- [picos](https://picos-api.gitlab.io/picos/) <= 2.2 for setting up the linear programming problems
 - [qutip](http://qutip.org/) for quantum mechanical operations
 - [sympy](https://www.sympy.org/) for symbolic manipulations
 
